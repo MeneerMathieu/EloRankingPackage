@@ -12,7 +12,7 @@ public class MatchResult {
         this.player = player;
     }
 
-    protected IPlayer getPlayer() {
+    public IPlayer getPlayer() {
         return player;
     }
 
