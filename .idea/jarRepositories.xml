@@ -7,6 +7,21 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="" />
+      <option name="url" value="https://maven.pkg.github.com/MeneerMathieu/REPOSITORY" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="MeneerMathieu" />
+      <option name="url" value="https://maven.pkg.github.com/MeneerMathieu/REPOSITORY" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="github" />
+      <option name="url" value="https://maven.pkg.github.com/OWNER/REPOSITORY" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
@@ -15,6 +30,31 @@
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="github" />
+      <option name="url" value="https://maven.pkg.github.com/MeneerMathieu/REPOSITORY" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="MeneerMathieu GitHub Maven packages" />
+      <option name="url" value="https://maven.pkg.github.com/MeneerMathieu/REPOSITORY" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="MeneerMathieu GitHub" />
+      <option name="url" value="https://maven.pkg.github.com/MeneerMathieu/REPOSITORY" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="MeneerMathieu GitHub Maven packages" />
+      <option name="url" value="https://maven.pkg.github.com/MeneerMathieu/EloRankingPackage" />
     </remote-repository>
   </component>
 </project>
